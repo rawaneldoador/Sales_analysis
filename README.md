@@ -93,4 +93,9 @@ jupyter notebook smartphone_sales_analysis.ipynb
 
 ## License
 
-This project is for educational and analytical purposes.
+This project is for educational and analytical proposes.
+
+### Contributers
+Rawan Abdelaleem Eldoador 
+Mahmoud Abo El_naga
+Zainab Talaat
